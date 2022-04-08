@@ -7,7 +7,7 @@
 ## 基本情報
 |  媒体  |  リンク  |
 | :---- |:---- |
-|  LinkedIn  |  linkedin.com/in/ystomo15765a21b  |
+|  LinkedIn  |  https://www.linkedin.com/in/ystomo15765a21b/  |
 |  twitter  |  https://twitter.com/ys10632142  |
 |  blog  |  https://yy16ki.hatenablog.com/  |
 
