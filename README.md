@@ -4,13 +4,12 @@
   - [学歴・職歴](#学歴職歴)
   - [職務経歴](#職務経歴)
   - [保有資格](#保有資格)
-## 基本情報
-|  媒体  |  リンク  |
-| :---- |:---- |
-|  LinkedIn  |  https://www.linkedin.com/in/ystomo15765a21b/  |
-|  twitter  |  https://twitter.com/ys10632142  |
-|  blog  |  https://yy16ki.hatenablog.com/  |
 
+## 基本情報
+- <a href="https://www.linkedin.com/in/ystomo15765a21b/" target="_blank">LinkedIn</a>  
+- <a href="https://twitter.com/ys10632142" target="_blank">twitter</a>
+- <a href="https://yy16ki.hatenablog.com/" target="_blank">blog</a>
+	
 ## 学歴・職歴
 |  期間  |  経歴  |
 | :---- |:---- |
