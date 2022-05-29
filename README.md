@@ -41,7 +41,7 @@ ETL製品：Talend，Informatica（IICS）
 
 **株式会社Realize（2020/4-2022/1）**  
 
-- トレイタリー業界　データ分析業務の運用支援  
+- トイレタリー業界　データ分析業務の運用支援  
 期間：2021/4 - 2022/1  
 役割：リーダー  
 
@@ -80,11 +80,12 @@ Alteryx および Tableau を活用したデータ分析業務（データの活
   
 |  資格  |  取得時期  |
 | :---- |:---- |
+|  AWS Certified Solutions Architect – Associate  | 2022/5 |
 |  Tableau Desktop Certified Associate  | 2021/6 |
 |  応用情報技術者  | 2021/6 |
 |  基本情報技術者  | 2021/3 |
 |  OSS-DB Certification/ Silver  | 2020/12 |
-|  Alteryx Designer Advanced  | 2020/5 |
+|  Alteryx Designer Advanced  | 2020/5 (expired) |
 
 - 語学
 
