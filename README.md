@@ -1,5 +1,6 @@
 # 職務経歴書
 目次
+- [職務経歴書](#職務経歴書)
   - [基本情報](#基本情報)
   - [学歴・職歴](#学歴職歴)
   - [職務経歴](#職務経歴)
@@ -7,20 +8,35 @@
 
 ## 基本情報
 - <a href="https://www.linkedin.com/in/ystomo15765a21b/" target="_blank">LinkedIn</a>  
-- <a href="https://twitter.com/ys10632142" target="_blank">twitter</a>
+- <a href="https://dev.classmethod.jp/author/yasuhara-tomoki/" target="_blank">Developers IO</a>
 - <a href="https://yy16ki.hatenablog.com/" target="_blank">blog</a>
 	
 ## 学歴・職歴
 |  期間  |  経歴  |
 | :---- |:---- |
-|  2022/2-在職中  |  株式会社アクアシステムズ  |
+|  2022/11-在職中  |  クラスメソッド株式会社  |
+|  2022/2-2022/10  |  株式会社アクアシステムズ  |
 |  2020/4-2022/1  |  株式会社 Realize（NTTデータグループ）  |
 |  2018/4-2020/3  |  東京海洋大学大学院 海洋管理政策学専攻  |
 |  2014/4-2018/3  |  東京海洋大学 海洋生物資源学科  |
 
 ## 職務経歴
+**クラスメソッド株式会社（2022/11-現在）**  
+アライアンス統括部 エンジニア
 
-**株式会社アクアシステムズ（2022/2-現在）**  
+**株式会社アクアシステムズ（2022/2-2022/10）**  
+- 広告業　システムセキュリティレビュー  
+期間：2022/6 - 2022/10  
+役割：メンバー  
+
+  - プロジェクト概要  
+社内外で使用するシステムのセキュリティレビューを支援．  
+  - 担当フェーズ  
+・システムセキュリティれ
+  - 業務内容  
+・システムのセキュリティ要件のヒアリング，レビュー結果の報告
+  - 使用技術  
+・Amazon Web Services
 
 - 製造業　データ分析基盤PoC  
 期間：2022/2 - 2022/4  
@@ -80,12 +96,12 @@ Alteryx および Tableau を活用したデータ分析業務（データの活
   
 |  資格  |  取得時期  |
 | :---- |:---- |
+|  Alteryx Designer Advanced (recertification) | 2022/12 |
 |  AWS Certified Solutions Architect – Associate  | 2022/5 |
 |  Tableau Desktop Certified Associate  | 2021/6 |
 |  応用情報技術者  | 2021/6 |
 |  基本情報技術者  | 2021/3 |
 |  OSS-DB Certification/ Silver  | 2020/12 |
-|  Alteryx Designer Advanced  | 2020/5 (expired) |
 
 - 語学
 
